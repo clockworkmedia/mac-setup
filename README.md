@@ -172,3 +172,22 @@ source ~/.bash_profile
 npm install --global gulp-cli
 ```
 
+---
+
+Contributing
+======
+
+Please read the [contribution guidelines] before submitting a pull request.
+
+In particular: <strong>If you have commit access, please don't merge changes without
+waiting a week for everybody to leave feedback.</strong>
+
+[contribution guidelines]: ../../../contributing
+
+Maintainers
+======
+
+![clockwork](./assets/logos/logo.png)
+
+This repository is maintained by [Clockwork Media](//www.clockworkmedia.co.za).
+
