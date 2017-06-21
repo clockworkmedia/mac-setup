@@ -64,24 +64,47 @@ touch Brewfile
 ```shell
 tap 'caskroom/cask'
 
-brew 'git'
+# Basic Brew brew 'git'
 brew 'node'
 brew 'npm'
 brew 'docker'
 brew 'docker-machine'
-brew 'antigen'
-
-cask 'chefdk'
+brew 'antigen'  # Development
+cask 'java'
 cask 'virtualbox'
 cask 'vagrant'
 cask 'vagrant-manager'
-cask 'mamp'
-cask 'opera'
-cask 'firefox'
-cask 'google-chrome'
-cask 'sublime-text'
+cask 'iterm2'
 cask 'sequel-pro'
-cask 'skype-for-business'
+cask 'postman'
+cask 'sourcetree'
+cask 'visual-studio-code'
+brew 'awscli'
+
+# Web Development
+brew 'php70-xdebug'
+brew 'composer'
+brew 'php-cs-fixer'
+brew 'yarn'
+cask 'medis'
+cask 'sequel-pro'
+
+# Mobile dev
+cask 'android-studio'
+cask 'genymotion'
+cask 'fastlane'
+
+# applications
+cask 'slack'
+cask 'vlc'
+cask 'clipmenu'
+cask 'skype'
+cask 'teamviewer'
+cask 'google-chrome'
+cask 'firefox'
+cask 'opera'
+cask 'dropbox'
+cask 'filezilla'
 
 mas 'Slack', id: 803453959
 ```
