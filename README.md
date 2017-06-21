@@ -187,7 +187,7 @@ waiting a week for everybody to leave feedback.</strong>
 Maintainers
 ======
 
-![clockwork](./assets/logos/logo.png)
+![clockwork](http://apps.clockworkmedia.co.za/github/assets/logos/logo.png)
 
 This repository is maintained by [Clockwork Media](//www.clockworkmedia.co.za).
 
